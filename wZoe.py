@@ -1,5 +1,6 @@
 from linkedin import linkedin
 
+#taken from linkedin app
 API_KEY = '77nymncwcfk86e'
 API_SECRET = 'BAfhIKepBzYabuAW'
 RETURN_URL = 'http://127.0.0.1:8080/'
